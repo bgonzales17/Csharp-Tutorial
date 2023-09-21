@@ -6,7 +6,7 @@ This Repository contains code which i wrote while following Microsoft/DevU's C# 
 
 ## Course Link YouTube: [C# Fundamentals for Absolute Beginners](https://www.youtube.com/watch?v=0QUgvfuKvWU "C# Fundamentals for Absolute Beginners")
 
-## Course Link YouTube: [Java for Beginners](https://learn.microsoft.com/en-us/shows/java-for-beginners")
+## Course Link YouTube: [Java for Beginners](https://learn.microsoft.com/en-us/shows/java-for-beginners "Java for Beginners")
 
 ## Chapter Video status
 
